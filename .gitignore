@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/razn_scheme/Debug
+/razn_scheme/razn_scheme.opensdf
+/razn_scheme/razn_scheme.sdf
+*.suo
